@@ -6,8 +6,9 @@
     <title>To Binary</title>
 </head>
 <body>
+    <h1>Convert to Binary</h1>
     <form action="#" method="post">
-        <input type="number" name="num">
+        <input type="number" name="num" placeholder="enter a number">
         <input type="submit" value="Convert" name="convert">
     </form>
     <?php
